@@ -1,1 +1,3 @@
 language: java
+notifications:
+   webhooks: https://oapi.dingtalk.com/robot/send?access_token=d030ee345a0c96eac7a8b5a534946cf3646d20ecfcd4605d1d7ff8a5c51f69a4
